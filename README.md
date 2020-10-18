@@ -12,9 +12,9 @@
     
 ### 使用說明 
 失敗嘗試XDD
-  字頻分析抓key word
-     *frequency.ipynb 
-         * 透過醫囑內容尋找相對應的keyword
+  * 字頻分析抓key word
+      * frequency.ipynb 
+          * 透過醫囑內容尋找相對應的keyword
           
 
 下載整個完整的資料夾，使用以上環境，
