@@ -1,0 +1,12 @@
+aneurysm 
+aortic 
+atenolol 
+smoker 
+lipitor 
+smoking
+depression 
+lisinopril 
+tobacco 
+
+*****************************
+tobacco use (smoker use)
