@@ -1,0 +1,40 @@
+past smoker
+current smoker
+past smoker
+past smoker
+current smoker
+non smoker
+current smoker
+non smoker
+unknown
+non smoker
+past smoker
+current smoker
+current smoker
+past smoker
+current smoker
+non smoker
+unknown
+non smoker
+unknown
+past smoker
+unknown
+unknown
+non smoker
+unknown
+unknown
+unknown
+current smoker
+current smoker
+unknown
+current smoker
+unknown
+unknown
+unknown
+unknown
+past smoker
+unknown
+unknown
+current smoker
+current smoker
+unknown
